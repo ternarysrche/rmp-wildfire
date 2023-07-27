@@ -1,0 +1,33 @@
+Top performing models 1x1:
+universal_kriging_gaussian_regional_linear_drift_values_log_shifted10000:3831
+ordinary_kriging_gaussian_geographic_nlags_10_values_log_shifted10000:4167
+gaussian_kde:4373
+ordinary_kriging_linear_geographic_nlags_10_values_log:5290
+ordinary_kriging_linear_geographic_nlags_10_values_log_shifted10000:5692
+
+
+Top performing models 3x3:
+ordinary_kriging_linear_geographic_nlags_10_values_log_shifted10000:4269
+nearest_interpolation_log_shifted10000:4735
+gaussian_kde:4779
+linear_interpolation_log:4869
+linear_interpolation_log_shifted10000:5093
+
+Top performing models 5x5:
+
+
+Bad performing models 1x1:
+cubic_interpolation_normal:2047
+nearest_interpolation_log:2315
+universal_kriging_linear_regional_linear_drift_values_log:2588
+inverse_distance_weighted_log:2623
+nearest_interpolation_log_shifted10000:2717
+
+Bad performing models 3x3:
+cubic_interpolation_normal:1437
+inverse_distance_weighted_log:1642
+ordinary_kriging_gaussian_geographic_nlags_10_values_log:1817
+ordinary_kriging_gaussian_geographic_nlags_10_values_log_shifted10000:2108
+inverse_distance_weighted_log_shifted10000:2131
+
+Bad performing models 5x5:
